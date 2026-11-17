@@ -1,4 +1,4 @@
-# YES Bank Stock Forecasting & News Sentiment System
+# Stock News Sentiment Analysis System
 
 A Streamlit dashboard that forecasts the price of **YES Bank (`YESBANK.NS`)** using two time-series approaches (Auto-ARIMA and Prophet), evaluates them honestly on unseen data, and adds a **FinBERT-based news sentiment layer** that can optionally nudge the forecast.
 
