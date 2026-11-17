@@ -58,9 +58,8 @@ NewsAPI ──► Headlines ──► FinBERT ──► Aggregate sentiment scor
 .
 ├── StockSentimentAnalysis.py   # Streamlit app (all logic)
 ├── requirements.txt            # Python dependencies
-├── README.md                   # This file
-└── .streamlit/
-    └── secrets.toml            # (you create) holds NEWS_API_KEY, do not commit
+└── README.md                   # This file
+
 ```
 
 ---
